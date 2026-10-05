@@ -1,37 +1,32 @@
-# Contract Clause Extractor — Zion Tech Group
+# Contract Clause Extractor 🧩
 
-AI contract clause extraction — obligations, dates, and risks pulled from any contract — part of the **Zion App Network**.
+**Pulls key clauses, dates, parties and obligations from any contract into structured data.**
 
-- 🌐 Live app: https://ziontechgroup.com/contract-clause-extractor/
+Part of the **Zion App Network — Batch 73 (Legal & Contract AI)** by [Zion Tech Group](https://ziontechgroup.com/).
+
+- 🌐 Live page: https://ziontechgroup.com/contract-clause-extractor/
+- 🗂️ App Network hub: https://github.com/Zion-support/zion-network · https://network.ziontechgroup.com
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
-- 🕸️ Network hub: https://ziontechgroup.com/zion-app-network/ · [GitHub](https://github.com/Zion-support/zion-app-network)
+- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
 
-## What it does
+## Features
+- 30+ clause types detected out of the box
+- Parties, dates, values and renewal terms
+- Obligation and penalty extraction
+- Batch processing with CSV/JSON export
+- Feeds [contract-obligation-tracker](https://ziontechgroup.com/contract-obligation-tracker/)
 
-Contract Clause Extractor reads any contract and pulls out what matters: obligations, renewal dates, indemnities, liability caps, and unusual clauses — into a structured, searchable summary with risk flags.
+## Batch 73 — Legal & Contract AI (sibling apps)
+- [nda-review-ai](https://github.com/Zion-support/nda-review-ai) — https://ziontechgroup.com/nda-review-ai/
+- [legal-risk-scorer](https://github.com/Zion-support/legal-risk-scorer) — https://ziontechgroup.com/legal-risk-scorer/
+- [esignature-flow-tracker](https://github.com/Zion-support/esignature-flow-tracker) — https://ziontechgroup.com/esignature-flow-tracker/
+- [litigation-hold-manager](https://github.com/Zion-support/litigation-hold-manager) — https://ziontechgroup.com/litigation-hold-manager/
+- [privacy-request-handler](https://github.com/Zion-support/privacy-request-handler) — https://ziontechgroup.com/privacy-request-handler/
 
-## Key features
-
-- **Clause-level extraction** — 40+ clause types identified and structured.
-- **Obligation register** — every "shall" tracked with owner and due date.
-- **Deviation flags** — clauses compared against your playbook standards.
-- **Batch intake** — upload hundreds of contracts for portfolio review.
-- **Export anywhere** — JSON/CSV to CLM, GRC, or spreadsheets.
-
-## Who it's for
-
-Legal ops and procurement teams reviewing contracts faster than headcount allows.
-
-## Zion App Network (related apps)
-
-- [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) — deep review before signing: https://ziontechgroup.com/ai-contract-reviewer/
-- [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — act on extracted dates: https://ziontechgroup.com/contract-renewal-radar/
-- [contract-obligation-tracker](https://github.com/Zion-support/contract-obligation-tracker) — track obligations: https://ziontechgroup.com/contract-obligation-tracker/
-- [vendor-risk-screener](https://github.com/Zion-support/vendor-risk-screener) — screen the counterparty: https://ziontechgroup.com/vendor-risk-screener/
-- [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) — https://ziontechgroup.com/compliance-evidence-collector/
-- [dpia-assistant](https://github.com/Zion-support/dpia-assistant) — https://ziontechgroup.com/dpia-assistant/
+## Related apps across the network
+- [contract-obligation-tracker](https://github.com/Zion-support/contract-obligation-tracker) — obligation tracking
+- [nda-review-ai](https://github.com/Zion-support/nda-review-ai) — NDA fast-path
+- [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — renewal dates
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+© 2026 Zion Tech Group · https://ziontechgroup.com/ · Start with a [$99 Discovery](https://ziontechgroup.com/discovery/)
